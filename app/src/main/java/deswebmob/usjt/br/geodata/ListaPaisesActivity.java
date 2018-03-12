@@ -15,7 +15,7 @@ import deswebmob.usjt.br.geodata.entity.Data;
 import deswebmob.usjt.br.geodata.entity.Pais;
 
 /**
- * Created by Guilherme Varela, RA: 81613746.
+ * Created by Guilherme Varela, RA: 81613746 - CCP3AN-MCA.
  */
 
 public class ListaPaisesActivity extends AppCompatActivity {
@@ -34,25 +34,18 @@ public class ListaPaisesActivity extends AppCompatActivity {
         paises = Data.listarPaises(continente);
         nomes = Data.listarNomes(paises);
 
-        ListView listView = (ListView) findViewById(R.id.lista_paises);
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_list_item_1, nomes);
+        ListView listView = findViewById(R.id.lista_paises);
+        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, nomes);
         listView.setAdapter(adapter);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 
             @Override
-            public void onItemClick(AdapterView<?> parent, View view,
-                                    int position, long id) {
-
-                // manda para a tela de detalhe
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent intent = new Intent(atividade, DetalhePaisActivity.class);
                 intent.putExtra(PAIS, paises.get(position));
-
                 startActivity(intent);
-
             }
-
         });
     }
 }

@@ -9,11 +9,11 @@ import android.widget.EditText;
 import android.widget.Spinner;
 
 /**
- * Created by Guilherme Varela, RA: 81613746.
+ * Created by Guilherme Varela, RA: 81613746 - CCP3AN-MCA.
  */
 
 public class MainActivity extends AppCompatActivity {
-    Spinner spinnerContinente;
+    Spinner spContinente;
     public static final String CHAVE = "deswebmob.usjt.br.geodata.txtContinente";
     String continente = "Todos";
 
@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        spinnerContinente = (Spinner)findViewById(R.id.spinnerContinente);
-        spinnerContinente.setOnItemSelectedListener(new PaisSelecionado());
+        spContinente = findViewById(R.id.spinnerContinente);
+        spContinente.setOnItemSelectedListener(new PaisSelecionado());
     }
 
     public void listarPaises(View view){

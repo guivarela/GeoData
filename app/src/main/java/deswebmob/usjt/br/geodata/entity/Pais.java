@@ -5,7 +5,7 @@ import java.text.Collator;
 import java.util.ArrayList;
 
 /**
- * Created by Guilherme Varela, RA: 81613746.
+ * Created by Guilherme Varela, RA: 81613746 - CCP3AN-MCA.
  */
 
 public class Pais implements Serializable, Comparable{

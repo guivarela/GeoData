@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Created by Guilherme Varela, RA: 81613746.
+ * Created by Guilherme Varela, RA: 81613746 - CCP3AN-MCA.
  */
 
 public class Data {
@@ -17,25 +17,18 @@ public class Data {
         }
         return nomes;
     }
-    public static ArrayList<Pais> listarPaises(String continente) {
+    public static ArrayList<Pais> listarPaises(String c) {
         Pais[] lista;
         ArrayList<Pais> paises = new ArrayList<>();
-        //carrega somente os paises da regiao escolhida
         for (Pais pais : todosPaises()) {
-            if (pais.getRegiao().equals(continente) || continente.equals("Todos")) {
+            if (pais.getRegiao().equals(c) || c.equals("Todos")) {
                 paises.add(pais);
             }
         }
-        //converte para vetor para poder ordenar usando o sort da classe Arrays
         lista = paises.toArray(new Pais[0]);
-        //ordena baseado no compareTo sobrescrito na classe Pais
-        //para funcionar, a classe pais precisa implementar a interface Comparable
         Arrays.sort(lista);
-        //transforma de novo em ArrayList
         paises = new ArrayList<>();
-        for(int i = 0; i < lista.length; i++) {
-            paises.add(lista[i]);
-        }
+        paises.addAll(Arrays.asList(lista));
         return paises;
     }
 

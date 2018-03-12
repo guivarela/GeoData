@@ -10,7 +10,7 @@ import android.widget.TextView;
 import deswebmob.usjt.br.geodata.entity.Pais;
 
 /**
- * Created by Guilherme Varela, RA: 81613746.
+ * Created by Guilherme Varela, RA: 81613746 - CCP3AN-MCA.
  */
 
 public class DetalhePaisActivity extends AppCompatActivity {
