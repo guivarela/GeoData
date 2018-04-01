@@ -24,5 +24,7 @@ public class DetalhePaisActivity extends AppCompatActivity {
         Pais pais = (Pais)intent.getSerializableExtra(ListaPaisesActivity.PAIS);
         txtPais.setText(pais.toString());
 
+
+
     }
 }

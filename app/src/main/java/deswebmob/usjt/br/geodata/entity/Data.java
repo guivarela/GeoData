@@ -49,7 +49,7 @@ public class Data {
         pais.setDemonimo("Afghan");
         pais.setPopulacao(27657145);
         pais.setArea(652230);
-        pais.setBandeira("https://restcountries.eu/data/afg.svg");
+        pais.setBandeira("afg");
         pais.setGini(27.80);
         idiomas = new ArrayList<>();
         idiomas.add("Pashto");
@@ -86,7 +86,7 @@ public class Data {
         pais.setDemonimo("Ålandish");
         pais.setPopulacao(28875);
         pais.setArea(1580);
-        pais.setBandeira("https://restcountries.eu/data/ala.svg");
+        pais.setBandeira("ala");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Swedish");
@@ -115,7 +115,7 @@ public class Data {
         pais.setDemonimo("Albanian");
         pais.setPopulacao(2886026);
         pais.setArea(28748);
-        pais.setBandeira("https://restcountries.eu/data/alb.svg");
+        pais.setBandeira("alb");
         pais.setGini(34.50);
         idiomas = new ArrayList<>();
         idiomas.add("Albanian");
@@ -148,7 +148,7 @@ public class Data {
         pais.setDemonimo("Algerian");
         pais.setPopulacao(40400000);
         pais.setArea(2381741);
-        pais.setBandeira("https://restcountries.eu/data/dza.svg");
+        pais.setBandeira("dza");
         pais.setGini(35.30);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -184,7 +184,7 @@ public class Data {
         pais.setDemonimo("American Samoan");
         pais.setPopulacao(57100);
         pais.setArea(199);
-        pais.setBandeira("https://restcountries.eu/data/asm.svg");
+        pais.setBandeira("asm");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -214,7 +214,7 @@ public class Data {
         pais.setDemonimo("Andorran");
         pais.setPopulacao(78014);
         pais.setArea(468);
-        pais.setBandeira("https://restcountries.eu/data/and.svg");
+        pais.setBandeira("and");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Catalan");
@@ -245,7 +245,7 @@ public class Data {
         pais.setDemonimo("Angolan");
         pais.setPopulacao(25868000);
         pais.setArea(1246700);
-        pais.setBandeira("https://restcountries.eu/data/ago.svg");
+        pais.setBandeira("ago");
         pais.setGini(58.60);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -278,7 +278,7 @@ public class Data {
         pais.setDemonimo("Anguillian");
         pais.setPopulacao(13452);
         pais.setArea(91);
-        pais.setBandeira("https://restcountries.eu/data/aia.svg");
+        pais.setBandeira("aia");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -307,7 +307,7 @@ public class Data {
         pais.setDemonimo("");
         pais.setPopulacao(1000);
         pais.setArea(14000000);
-        pais.setBandeira("https://restcountries.eu/data/ata.svg");
+        pais.setBandeira("ata");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -345,7 +345,7 @@ public class Data {
         pais.setDemonimo("Antiguan, Barbudan");
         pais.setPopulacao(86295);
         pais.setArea(442);
-        pais.setBandeira("https://restcountries.eu/data/atg.svg");
+        pais.setBandeira("atg");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -374,7 +374,7 @@ public class Data {
         pais.setDemonimo("Argentinean");
         pais.setPopulacao(43590400);
         pais.setArea(2780400);
-        pais.setBandeira("https://restcountries.eu/data/arg.svg");
+        pais.setBandeira("arg");
         pais.setGini(44.50);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -409,7 +409,7 @@ public class Data {
         pais.setDemonimo("Armenian");
         pais.setPopulacao(2994400);
         pais.setArea(29743);
-        pais.setBandeira("https://restcountries.eu/data/arm.svg");
+        pais.setBandeira("arm");
         pais.setGini(30.90);
         idiomas = new ArrayList<>();
         idiomas.add("Armenian");
@@ -443,7 +443,7 @@ public class Data {
         pais.setDemonimo("Aruban");
         pais.setPopulacao(107394);
         pais.setArea(180);
-        pais.setBandeira("https://restcountries.eu/data/abw.svg");
+        pais.setBandeira("abw");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Dutch");
@@ -473,7 +473,7 @@ public class Data {
         pais.setDemonimo("Australian");
         pais.setPopulacao(24117360);
         pais.setArea(7692024);
-        pais.setBandeira("https://restcountries.eu/data/aus.svg");
+        pais.setBandeira("aus");
         pais.setGini(30.50);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -509,7 +509,7 @@ public class Data {
         pais.setDemonimo("Austrian");
         pais.setPopulacao(8725931);
         pais.setArea(83871);
-        pais.setBandeira("https://restcountries.eu/data/aut.svg");
+        pais.setBandeira("aut");
         pais.setGini(26.00);
         idiomas = new ArrayList<>();
         idiomas.add("German");
@@ -546,7 +546,7 @@ public class Data {
         pais.setDemonimo("Azerbaijani");
         pais.setPopulacao(9730500);
         pais.setArea(86600);
-        pais.setBandeira("https://restcountries.eu/data/aze.svg");
+        pais.setBandeira("aze");
         pais.setGini(33.70);
         idiomas = new ArrayList<>();
         idiomas.add("Azerbaijani");
@@ -580,7 +580,7 @@ public class Data {
         pais.setDemonimo("Bahamian");
         pais.setPopulacao(378040);
         pais.setArea(13943);
-        pais.setBandeira("https://restcountries.eu/data/bhs.svg");
+        pais.setBandeira("bhs");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -609,7 +609,7 @@ public class Data {
         pais.setDemonimo("Bahraini");
         pais.setPopulacao(1404900);
         pais.setArea(765);
-        pais.setBandeira("https://restcountries.eu/data/bhr.svg");
+        pais.setBandeira("bhr");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -638,7 +638,7 @@ public class Data {
         pais.setDemonimo("Bangladeshi");
         pais.setPopulacao(161006790);
         pais.setArea(147570);
-        pais.setBandeira("https://restcountries.eu/data/bgd.svg");
+        pais.setBandeira("bgd");
         pais.setGini(32.10);
         idiomas = new ArrayList<>();
         idiomas.add("Bengali");
@@ -669,7 +669,7 @@ public class Data {
         pais.setDemonimo("Barbadian");
         pais.setPopulacao(285000);
         pais.setArea(430);
-        pais.setBandeira("https://restcountries.eu/data/brb.svg");
+        pais.setBandeira("brb");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -698,7 +698,7 @@ public class Data {
         pais.setDemonimo("Belarusian");
         pais.setPopulacao(9498700);
         pais.setArea(207600);
-        pais.setBandeira("https://restcountries.eu/data/blr.svg");
+        pais.setBandeira("blr");
         pais.setGini(26.50);
         idiomas = new ArrayList<>();
         idiomas.add("Belarusian");
@@ -734,7 +734,7 @@ public class Data {
         pais.setDemonimo("Belgian");
         pais.setPopulacao(11319511);
         pais.setArea(30528);
-        pais.setBandeira("https://restcountries.eu/data/bel.svg");
+        pais.setBandeira("bel");
         pais.setGini(33.00);
         idiomas = new ArrayList<>();
         idiomas.add("Dutch");
@@ -769,7 +769,7 @@ public class Data {
         pais.setDemonimo("Belizean");
         pais.setPopulacao(370300);
         pais.setArea(22966);
-        pais.setBandeira("https://restcountries.eu/data/blz.svg");
+        pais.setBandeira("blz");
         pais.setGini(53.10);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -801,7 +801,7 @@ public class Data {
         pais.setDemonimo("Beninese");
         pais.setPopulacao(10653654);
         pais.setArea(112622);
-        pais.setBandeira("https://restcountries.eu/data/ben.svg");
+        pais.setBandeira("ben");
         pais.setGini(38.60);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -834,7 +834,7 @@ public class Data {
         pais.setDemonimo("Bermudian");
         pais.setPopulacao(61954);
         pais.setArea(54);
-        pais.setBandeira("https://restcountries.eu/data/bmu.svg");
+        pais.setBandeira("bmu");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -863,7 +863,7 @@ public class Data {
         pais.setDemonimo("Bhutanese");
         pais.setPopulacao(775620);
         pais.setArea(38394);
-        pais.setBandeira("https://restcountries.eu/data/btn.svg");
+        pais.setBandeira("btn");
         pais.setGini(38.10);
         idiomas = new ArrayList<>();
         idiomas.add("Dzongkha");
@@ -895,7 +895,7 @@ public class Data {
         pais.setDemonimo("Bolivian");
         pais.setPopulacao(10985059);
         pais.setArea(1098581);
-        pais.setBandeira("https://restcountries.eu/data/bol.svg");
+        pais.setBandeira("bol");
         pais.setGini(56.30);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -931,7 +931,7 @@ public class Data {
         pais.setDemonimo("Dutch");
         pais.setPopulacao(17408);
         pais.setArea(294);
-        pais.setBandeira("https://restcountries.eu/data/bes.svg");
+        pais.setBandeira("bes");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Dutch");
@@ -961,7 +961,7 @@ public class Data {
         pais.setDemonimo("Bosnian, Herzegovinian");
         pais.setPopulacao(3531159);
         pais.setArea(51209);
-        pais.setBandeira("https://restcountries.eu/data/bih.svg");
+        pais.setBandeira("bih");
         pais.setGini(36.20);
         idiomas = new ArrayList<>();
         idiomas.add("Bosnian");
@@ -995,7 +995,7 @@ public class Data {
         pais.setDemonimo("Motswana");
         pais.setPopulacao(2141206);
         pais.setArea(582000);
-        pais.setBandeira("https://restcountries.eu/data/bwa.svg");
+        pais.setBandeira("bwa");
         pais.setGini(61.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1029,7 +1029,7 @@ public class Data {
         pais.setDemonimo("");
         pais.setPopulacao(0);
         pais.setArea(49);
-        pais.setBandeira("https://restcountries.eu/data/bvt.svg");
+        pais.setBandeira("bvt");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Norwegian");
@@ -1054,13 +1054,13 @@ public class Data {
         pais = new Pais();
         pais.setNome("Brazil");
         pais.setCodigo("BRA");
-        pais.setCapital("Brasília");
+        pais.setCapital("Brasilia");
         pais.setRegiao("Americas");
         pais.setSubRegiao("South America");
         pais.setDemonimo("Brazilian");
         pais.setPopulacao(206135893);
         pais.setArea(8515767);
-        pais.setBandeira("https://restcountries.eu/data/bra.svg");
+        pais.setBandeira("bra");
         pais.setGini(54.70);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -1102,7 +1102,7 @@ public class Data {
         pais.setDemonimo("Indian");
         pais.setPopulacao(3000);
         pais.setArea(60);
-        pais.setBandeira("https://restcountries.eu/data/iot.svg");
+        pais.setBandeira("iot");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1131,7 +1131,7 @@ public class Data {
         pais.setDemonimo("American");
         pais.setPopulacao(300);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/umi.svg");
+        pais.setBandeira("umi");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1162,7 +1162,7 @@ public class Data {
         pais.setDemonimo("Virgin Islander");
         pais.setPopulacao(28514);
         pais.setArea(151);
-        pais.setBandeira("https://restcountries.eu/data/vgb.svg");
+        pais.setBandeira("vgb");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1192,7 +1192,7 @@ public class Data {
         pais.setDemonimo("Virgin Islander");
         pais.setPopulacao(114743);
         pais.setArea(346);
-        pais.setBandeira("https://restcountries.eu/data/vir.svg");
+        pais.setBandeira("vir");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1221,7 +1221,7 @@ public class Data {
         pais.setDemonimo("Bruneian");
         pais.setPopulacao(411900);
         pais.setArea(5765);
-        pais.setBandeira("https://restcountries.eu/data/brn.svg");
+        pais.setBandeira("brn");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Malay");
@@ -1252,7 +1252,7 @@ public class Data {
         pais.setDemonimo("Bulgarian");
         pais.setPopulacao(7153784);
         pais.setArea(110879);
-        pais.setBandeira("https://restcountries.eu/data/bgr.svg");
+        pais.setBandeira("bgr");
         pais.setGini(28.20);
         idiomas = new ArrayList<>();
         idiomas.add("Bulgarian");
@@ -1286,7 +1286,7 @@ public class Data {
         pais.setDemonimo("Burkinabe");
         pais.setPopulacao(19034397);
         pais.setArea(272967);
-        pais.setBandeira("https://restcountries.eu/data/bfa.svg");
+        pais.setBandeira("bfa");
         pais.setGini(39.80);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -1322,7 +1322,7 @@ public class Data {
         pais.setDemonimo("Burundian");
         pais.setPopulacao(10114505);
         pais.setArea(27834);
-        pais.setBandeira("https://restcountries.eu/data/bdi.svg");
+        pais.setBandeira("bdi");
         pais.setGini(33.30);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -1355,7 +1355,7 @@ public class Data {
         pais.setDemonimo("Cambodian");
         pais.setPopulacao(15626444);
         pais.setArea(181035);
-        pais.setBandeira("https://restcountries.eu/data/khm.svg");
+        pais.setBandeira("khm");
         pais.setGini(37.90);
         idiomas = new ArrayList<>();
         idiomas.add("Khmer");
@@ -1388,7 +1388,7 @@ public class Data {
         pais.setDemonimo("Cameroonian");
         pais.setPopulacao(22709892);
         pais.setArea(475442);
-        pais.setBandeira("https://restcountries.eu/data/cmr.svg");
+        pais.setBandeira("cmr");
         pais.setGini(38.90);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1424,7 +1424,7 @@ public class Data {
         pais.setDemonimo("Canadian");
         pais.setPopulacao(36155487);
         pais.setArea(9984670);
-        pais.setBandeira("https://restcountries.eu/data/can.svg");
+        pais.setBandeira("can");
         pais.setGini(32.60);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1460,7 +1460,7 @@ public class Data {
         pais.setDemonimo("Cape Verdian");
         pais.setPopulacao(531239);
         pais.setArea(4033);
-        pais.setBandeira("https://restcountries.eu/data/cpv.svg");
+        pais.setBandeira("cpv");
         pais.setGini(50.50);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -1489,7 +1489,7 @@ public class Data {
         pais.setDemonimo("Caymanian");
         pais.setPopulacao(58238);
         pais.setArea(264);
-        pais.setBandeira("https://restcountries.eu/data/cym.svg");
+        pais.setBandeira("cym");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1518,7 +1518,7 @@ public class Data {
         pais.setDemonimo("Central African");
         pais.setPopulacao(4998000);
         pais.setArea(622984);
-        pais.setBandeira("https://restcountries.eu/data/caf.svg");
+        pais.setBandeira("caf");
         pais.setGini(56.30);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -1554,7 +1554,7 @@ public class Data {
         pais.setDemonimo("Chadian");
         pais.setPopulacao(14497000);
         pais.setArea(1284000);
-        pais.setBandeira("https://restcountries.eu/data/tcd.svg");
+        pais.setBandeira("tcd");
         pais.setGini(39.80);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -1590,7 +1590,7 @@ public class Data {
         pais.setDemonimo("Chilean");
         pais.setPopulacao(18191900);
         pais.setArea(756102);
-        pais.setBandeira("https://restcountries.eu/data/chl.svg");
+        pais.setBandeira("chl");
         pais.setGini(52.10);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -1623,7 +1623,7 @@ public class Data {
         pais.setDemonimo("Chinese");
         pais.setPopulacao(1377422166);
         pais.setArea(9640011);
-        pais.setBandeira("https://restcountries.eu/data/chn.svg");
+        pais.setBandeira("chn");
         pais.setGini(47.00);
         idiomas = new ArrayList<>();
         idiomas.add("Chinese");
@@ -1667,7 +1667,7 @@ public class Data {
         pais.setDemonimo("Christmas Island");
         pais.setPopulacao(2072);
         pais.setArea(135);
-        pais.setBandeira("https://restcountries.eu/data/cxr.svg");
+        pais.setBandeira("cxr");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1696,7 +1696,7 @@ public class Data {
         pais.setDemonimo("Cocos Islander");
         pais.setPopulacao(550);
         pais.setArea(14);
-        pais.setBandeira("https://restcountries.eu/data/cck.svg");
+        pais.setBandeira("cck");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1725,7 +1725,7 @@ public class Data {
         pais.setDemonimo("Colombian");
         pais.setPopulacao(48759958);
         pais.setArea(1141748);
-        pais.setBandeira("https://restcountries.eu/data/col.svg");
+        pais.setBandeira("col");
         pais.setGini(55.90);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -1759,7 +1759,7 @@ public class Data {
         pais.setDemonimo("Comoran");
         pais.setPopulacao(806153);
         pais.setArea(1862);
-        pais.setBandeira("https://restcountries.eu/data/com.svg");
+        pais.setBandeira("com");
         pais.setGini(64.30);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -1789,7 +1789,7 @@ public class Data {
         pais.setDemonimo("Congolese");
         pais.setPopulacao(4741000);
         pais.setArea(342000);
-        pais.setBandeira("https://restcountries.eu/data/cog.svg");
+        pais.setBandeira("cog");
         pais.setGini(47.30);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -1824,7 +1824,7 @@ public class Data {
         pais.setDemonimo("Congolese");
         pais.setPopulacao(85026000);
         pais.setArea(2344858);
-        pais.setBandeira("https://restcountries.eu/data/cod.svg");
+        pais.setBandeira("cod");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -1867,7 +1867,7 @@ public class Data {
         pais.setDemonimo("Cook Islander");
         pais.setPopulacao(18100);
         pais.setArea(236);
-        pais.setBandeira("https://restcountries.eu/data/cok.svg");
+        pais.setBandeira("cok");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -1897,7 +1897,7 @@ public class Data {
         pais.setDemonimo("Costa Rican");
         pais.setPopulacao(4890379);
         pais.setArea(51100);
-        pais.setBandeira("https://restcountries.eu/data/cri.svg");
+        pais.setBandeira("cri");
         pais.setGini(50.70);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -1928,7 +1928,7 @@ public class Data {
         pais.setDemonimo("Croatian");
         pais.setPopulacao(4190669);
         pais.setArea(56594);
-        pais.setBandeira("https://restcountries.eu/data/hrv.svg");
+        pais.setBandeira("hrv");
         pais.setGini(33.70);
         idiomas = new ArrayList<>();
         idiomas.add("Croatian");
@@ -1962,7 +1962,7 @@ public class Data {
         pais.setDemonimo("Cuban");
         pais.setPopulacao(11239004);
         pais.setArea(109884);
-        pais.setBandeira("https://restcountries.eu/data/cub.svg");
+        pais.setBandeira("cub");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -1992,7 +1992,7 @@ public class Data {
         pais.setDemonimo("Dutch");
         pais.setPopulacao(154843);
         pais.setArea(444);
-        pais.setBandeira("https://restcountries.eu/data/cuw.svg");
+        pais.setBandeira("cuw");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Dutch");
@@ -2023,7 +2023,7 @@ public class Data {
         pais.setDemonimo("Cypriot");
         pais.setPopulacao(847000);
         pais.setArea(9251);
-        pais.setBandeira("https://restcountries.eu/data/cyp.svg");
+        pais.setBandeira("cyp");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Greek (modern)");
@@ -2055,7 +2055,7 @@ public class Data {
         pais.setDemonimo("Czech");
         pais.setPopulacao(10558524);
         pais.setArea(78865);
-        pais.setBandeira("https://restcountries.eu/data/cze.svg");
+        pais.setBandeira("cze");
         pais.setGini(26.00);
         idiomas = new ArrayList<>();
         idiomas.add("Czech");
@@ -2089,7 +2089,7 @@ public class Data {
         pais.setDemonimo("Danish");
         pais.setPopulacao(5717014);
         pais.setArea(43094);
-        pais.setBandeira("https://restcountries.eu/data/dnk.svg");
+        pais.setBandeira("dnk");
         pais.setGini(24.00);
         idiomas = new ArrayList<>();
         idiomas.add("Danish");
@@ -2123,7 +2123,7 @@ public class Data {
         pais.setDemonimo("Djibouti");
         pais.setPopulacao(900000);
         pais.setArea(23200);
-        pais.setBandeira("https://restcountries.eu/data/dji.svg");
+        pais.setBandeira("dji");
         pais.setGini(40.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -2156,7 +2156,7 @@ public class Data {
         pais.setDemonimo("Dominican");
         pais.setPopulacao(71293);
         pais.setArea(751);
-        pais.setBandeira("https://restcountries.eu/data/dma.svg");
+        pais.setBandeira("dma");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -2185,7 +2185,7 @@ public class Data {
         pais.setDemonimo("Dominican");
         pais.setPopulacao(10075045);
         pais.setArea(48671);
-        pais.setBandeira("https://restcountries.eu/data/dom.svg");
+        pais.setBandeira("dom");
         pais.setGini(47.20);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -2215,7 +2215,7 @@ public class Data {
         pais.setDemonimo("Ecuadorean");
         pais.setPopulacao(16545799);
         pais.setArea(276841);
-        pais.setBandeira("https://restcountries.eu/data/ecu.svg");
+        pais.setBandeira("ecu");
         pais.setGini(49.30);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -2247,7 +2247,7 @@ public class Data {
         pais.setDemonimo("Egyptian");
         pais.setPopulacao(91290000);
         pais.setArea(1002450);
-        pais.setBandeira("https://restcountries.eu/data/egy.svg");
+        pais.setBandeira("egy");
         pais.setGini(30.80);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -2279,7 +2279,7 @@ public class Data {
         pais.setDemonimo("Salvadoran");
         pais.setPopulacao(6520675);
         pais.setArea(21041);
-        pais.setBandeira("https://restcountries.eu/data/slv.svg");
+        pais.setBandeira("slv");
         pais.setGini(48.30);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -2310,7 +2310,7 @@ public class Data {
         pais.setDemonimo("Equatorial Guinean");
         pais.setPopulacao(1222442);
         pais.setArea(28051);
-        pais.setBandeira("https://restcountries.eu/data/gnq.svg");
+        pais.setBandeira("gnq");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -2342,7 +2342,7 @@ public class Data {
         pais.setDemonimo("Eritrean");
         pais.setPopulacao(5352000);
         pais.setArea(117600);
-        pais.setBandeira("https://restcountries.eu/data/eri.svg");
+        pais.setBandeira("eri");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Tigrinya");
@@ -2376,7 +2376,7 @@ public class Data {
         pais.setDemonimo("Estonian");
         pais.setPopulacao(1315944);
         pais.setArea(45227);
-        pais.setBandeira("https://restcountries.eu/data/est.svg");
+        pais.setBandeira("est");
         pais.setGini(36.00);
         idiomas = new ArrayList<>();
         idiomas.add("Estonian");
@@ -2407,7 +2407,7 @@ public class Data {
         pais.setDemonimo("Ethiopian");
         pais.setPopulacao(92206005);
         pais.setArea(1104300);
-        pais.setBandeira("https://restcountries.eu/data/eth.svg");
+        pais.setBandeira("eth");
         pais.setGini(29.80);
         idiomas = new ArrayList<>();
         idiomas.add("Amharic");
@@ -2442,7 +2442,7 @@ public class Data {
         pais.setDemonimo("Falkland Islander");
         pais.setPopulacao(2563);
         pais.setArea(12173);
-        pais.setBandeira("https://restcountries.eu/data/flk.svg");
+        pais.setBandeira("flk");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -2471,7 +2471,7 @@ public class Data {
         pais.setDemonimo("Faroese");
         pais.setPopulacao(49376);
         pais.setArea(1393);
-        pais.setBandeira("https://restcountries.eu/data/fro.svg");
+        pais.setBandeira("fro");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Faroese");
@@ -2501,7 +2501,7 @@ public class Data {
         pais.setDemonimo("Fijian");
         pais.setPopulacao(867000);
         pais.setArea(18272);
-        pais.setBandeira("https://restcountries.eu/data/fji.svg");
+        pais.setBandeira("fji");
         pais.setGini(42.80);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -2533,7 +2533,7 @@ public class Data {
         pais.setDemonimo("Finnish");
         pais.setPopulacao(5491817);
         pais.setArea(338424);
-        pais.setBandeira("https://restcountries.eu/data/fin.svg");
+        pais.setBandeira("fin");
         pais.setGini(26.90);
         idiomas = new ArrayList<>();
         idiomas.add("Finnish");
@@ -2566,7 +2566,7 @@ public class Data {
         pais.setDemonimo("French");
         pais.setPopulacao(66710000);
         pais.setArea(640679);
-        pais.setBandeira("https://restcountries.eu/data/fra.svg");
+        pais.setBandeira("fra");
         pais.setGini(32.70);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -2614,7 +2614,7 @@ public class Data {
         pais.setDemonimo("");
         pais.setPopulacao(254541);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/guf.svg");
+        pais.setBandeira("guf");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -2645,7 +2645,7 @@ public class Data {
         pais.setDemonimo("French Polynesian");
         pais.setPopulacao(271800);
         pais.setArea(4167);
-        pais.setBandeira("https://restcountries.eu/data/pyf.svg");
+        pais.setBandeira("pyf");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -2676,7 +2676,7 @@ public class Data {
         pais.setDemonimo("French");
         pais.setPopulacao(140);
         pais.setArea(7747);
-        pais.setBandeira("https://restcountries.eu/data/atf.svg");
+        pais.setBandeira("atf");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -2705,7 +2705,7 @@ public class Data {
         pais.setDemonimo("Gabonese");
         pais.setPopulacao(1802278);
         pais.setArea(267668);
-        pais.setBandeira("https://restcountries.eu/data/gab.svg");
+        pais.setBandeira("gab");
         pais.setGini(41.50);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -2737,7 +2737,7 @@ public class Data {
         pais.setDemonimo("Gambian");
         pais.setPopulacao(1882450);
         pais.setArea(11295);
-        pais.setBandeira("https://restcountries.eu/data/gmb.svg");
+        pais.setBandeira("gmb");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -2767,7 +2767,7 @@ public class Data {
         pais.setDemonimo("Georgian");
         pais.setPopulacao(3720400);
         pais.setArea(69700);
-        pais.setBandeira("https://restcountries.eu/data/geo.svg");
+        pais.setBandeira("geo");
         pais.setGini(41.30);
         idiomas = new ArrayList<>();
         idiomas.add("Georgian");
@@ -2800,7 +2800,7 @@ public class Data {
         pais.setDemonimo("German");
         pais.setPopulacao(81770900);
         pais.setArea(357114);
-        pais.setBandeira("https://restcountries.eu/data/deu.svg");
+        pais.setBandeira("deu");
         pais.setGini(28.30);
         idiomas = new ArrayList<>();
         idiomas.add("German");
@@ -2838,7 +2838,7 @@ public class Data {
         pais.setDemonimo("Ghanaian");
         pais.setPopulacao(27670174);
         pais.setArea(238533);
-        pais.setBandeira("https://restcountries.eu/data/gha.svg");
+        pais.setBandeira("gha");
         pais.setGini(42.80);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -2870,7 +2870,7 @@ public class Data {
         pais.setDemonimo("Gibraltar");
         pais.setPopulacao(33140);
         pais.setArea(6);
-        pais.setBandeira("https://restcountries.eu/data/gib.svg");
+        pais.setBandeira("gib");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -2900,7 +2900,7 @@ public class Data {
         pais.setDemonimo("Greek");
         pais.setPopulacao(10858018);
         pais.setArea(131990);
-        pais.setBandeira("https://restcountries.eu/data/grc.svg");
+        pais.setBandeira("grc");
         pais.setGini(34.30);
         idiomas = new ArrayList<>();
         idiomas.add("Greek (modern)");
@@ -2933,7 +2933,7 @@ public class Data {
         pais.setDemonimo("Greenlandic");
         pais.setPopulacao(55847);
         pais.setArea(2166086);
-        pais.setBandeira("https://restcountries.eu/data/grl.svg");
+        pais.setBandeira("grl");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Kalaallisut");
@@ -2965,7 +2965,7 @@ public class Data {
         pais.setDemonimo("Grenadian");
         pais.setPopulacao(103328);
         pais.setArea(344);
-        pais.setBandeira("https://restcountries.eu/data/grd.svg");
+        pais.setBandeira("grd");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -2994,7 +2994,7 @@ public class Data {
         pais.setDemonimo("Guadeloupian");
         pais.setPopulacao(400132);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/glp.svg");
+        pais.setBandeira("glp");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -3023,7 +3023,7 @@ public class Data {
         pais.setDemonimo("Guamanian");
         pais.setPopulacao(184200);
         pais.setArea(549);
-        pais.setBandeira("https://restcountries.eu/data/gum.svg");
+        pais.setBandeira("gum");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3054,7 +3054,7 @@ public class Data {
         pais.setDemonimo("Guatemalan");
         pais.setPopulacao(16176133);
         pais.setArea(108889);
-        pais.setBandeira("https://restcountries.eu/data/gtm.svg");
+        pais.setBandeira("gtm");
         pais.setGini(55.90);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -3087,7 +3087,7 @@ public class Data {
         pais.setDemonimo("Channel Islander");
         pais.setPopulacao(62999);
         pais.setArea(78);
-        pais.setBandeira("https://restcountries.eu/data/ggy.svg");
+        pais.setBandeira("ggy");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3118,7 +3118,7 @@ public class Data {
         pais.setDemonimo("Guinean");
         pais.setPopulacao(12947000);
         pais.setArea(245857);
-        pais.setBandeira("https://restcountries.eu/data/gin.svg");
+        pais.setBandeira("gin");
         pais.setGini(39.40);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -3154,7 +3154,7 @@ public class Data {
         pais.setDemonimo("Guinea-Bissauan");
         pais.setPopulacao(1547777);
         pais.setArea(36125);
-        pais.setBandeira("https://restcountries.eu/data/gnb.svg");
+        pais.setBandeira("gnb");
         pais.setGini(35.50);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -3185,7 +3185,7 @@ public class Data {
         pais.setDemonimo("Guyanese");
         pais.setPopulacao(746900);
         pais.setArea(214969);
-        pais.setBandeira("https://restcountries.eu/data/guy.svg");
+        pais.setBandeira("guy");
         pais.setGini(44.50);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3217,7 +3217,7 @@ public class Data {
         pais.setDemonimo("Haitian");
         pais.setPopulacao(11078033);
         pais.setArea(27750);
-        pais.setBandeira("https://restcountries.eu/data/hti.svg");
+        pais.setBandeira("hti");
         pais.setGini(59.20);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -3248,7 +3248,7 @@ public class Data {
         pais.setDemonimo("Heard and McDonald Islander");
         pais.setPopulacao(0);
         pais.setArea(412);
-        pais.setBandeira("https://restcountries.eu/data/hmd.svg");
+        pais.setBandeira("hmd");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3278,7 +3278,7 @@ public class Data {
         pais.setDemonimo("");
         pais.setPopulacao(451);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/vat.svg");
+        pais.setBandeira("vat");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Latin");
@@ -3311,7 +3311,7 @@ public class Data {
         pais.setDemonimo("Honduran");
         pais.setPopulacao(8576532);
         pais.setArea(112492);
-        pais.setBandeira("https://restcountries.eu/data/hnd.svg");
+        pais.setBandeira("hnd");
         pais.setGini(57.00);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -3343,7 +3343,7 @@ public class Data {
         pais.setDemonimo("Chinese");
         pais.setPopulacao(7324300);
         pais.setArea(1104);
-        pais.setBandeira("https://restcountries.eu/data/hkg.svg");
+        pais.setBandeira("hkg");
         pais.setGini(53.30);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3374,7 +3374,7 @@ public class Data {
         pais.setDemonimo("Hungarian");
         pais.setPopulacao(9823000);
         pais.setArea(93028);
-        pais.setBandeira("https://restcountries.eu/data/hun.svg");
+        pais.setBandeira("hun");
         pais.setGini(31.20);
         idiomas = new ArrayList<>();
         idiomas.add("Hungarian");
@@ -3410,7 +3410,7 @@ public class Data {
         pais.setDemonimo("Icelander");
         pais.setPopulacao(334300);
         pais.setArea(103000);
-        pais.setBandeira("https://restcountries.eu/data/isl.svg");
+        pais.setBandeira("isl");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Icelandic");
@@ -3439,7 +3439,7 @@ public class Data {
         pais.setDemonimo("Indian");
         pais.setPopulacao(1295210000);
         pais.setArea(3287590);
-        pais.setBandeira("https://restcountries.eu/data/ind.svg");
+        pais.setBandeira("ind");
         pais.setGini(33.40);
         idiomas = new ArrayList<>();
         idiomas.add("Hindi");
@@ -3477,7 +3477,7 @@ public class Data {
         pais.setDemonimo("Indonesian");
         pais.setPopulacao(258705000);
         pais.setArea(1904569);
-        pais.setBandeira("https://restcountries.eu/data/idn.svg");
+        pais.setBandeira("idn");
         pais.setGini(34.00);
         idiomas = new ArrayList<>();
         idiomas.add("Indonesian");
@@ -3511,7 +3511,7 @@ public class Data {
         pais.setDemonimo("Ivorian");
         pais.setPopulacao(22671331);
         pais.setArea(322463);
-        pais.setBandeira("https://restcountries.eu/data/civ.svg");
+        pais.setBandeira("civ");
         pais.setGini(41.50);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -3545,7 +3545,7 @@ public class Data {
         pais.setDemonimo("Iranian");
         pais.setPopulacao(79369900);
         pais.setArea(1648195);
-        pais.setBandeira("https://restcountries.eu/data/irn.svg");
+        pais.setBandeira("irn");
         pais.setGini(38.30);
         idiomas = new ArrayList<>();
         idiomas.add("Persian (Farsi)");
@@ -3581,7 +3581,7 @@ public class Data {
         pais.setDemonimo("Iraqi");
         pais.setPopulacao(37883543);
         pais.setArea(438317);
-        pais.setBandeira("https://restcountries.eu/data/irq.svg");
+        pais.setBandeira("irq");
         pais.setGini(30.90);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -3617,7 +3617,7 @@ public class Data {
         pais.setDemonimo("Irish");
         pais.setPopulacao(6378000);
         pais.setArea(70273);
-        pais.setBandeira("https://restcountries.eu/data/irl.svg");
+        pais.setBandeira("irl");
         pais.setGini(34.30);
         idiomas = new ArrayList<>();
         idiomas.add("Irish");
@@ -3648,7 +3648,7 @@ public class Data {
         pais.setDemonimo("Manx");
         pais.setPopulacao(84497);
         pais.setArea(572);
-        pais.setBandeira("https://restcountries.eu/data/imn.svg");
+        pais.setBandeira("imn");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3679,7 +3679,7 @@ public class Data {
         pais.setDemonimo("Israeli");
         pais.setPopulacao(8527400);
         pais.setArea(20770);
-        pais.setBandeira("https://restcountries.eu/data/isr.svg");
+        pais.setBandeira("isr");
         pais.setGini(39.20);
         idiomas = new ArrayList<>();
         idiomas.add("Hebrew (modern)");
@@ -3713,7 +3713,7 @@ public class Data {
         pais.setDemonimo("Italian");
         pais.setPopulacao(60665551);
         pais.setArea(301336);
-        pais.setBandeira("https://restcountries.eu/data/ita.svg");
+        pais.setBandeira("ita");
         pais.setGini(36.00);
         idiomas = new ArrayList<>();
         idiomas.add("Italian");
@@ -3748,7 +3748,7 @@ public class Data {
         pais.setDemonimo("Jamaican");
         pais.setPopulacao(2723246);
         pais.setArea(10991);
-        pais.setBandeira("https://restcountries.eu/data/jam.svg");
+        pais.setBandeira("jam");
         pais.setGini(45.50);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3777,7 +3777,7 @@ public class Data {
         pais.setDemonimo("Japanese");
         pais.setPopulacao(126960000);
         pais.setArea(377930);
-        pais.setBandeira("https://restcountries.eu/data/jpn.svg");
+        pais.setBandeira("jpn");
         pais.setGini(38.10);
         idiomas = new ArrayList<>();
         idiomas.add("Japanese");
@@ -3806,7 +3806,7 @@ public class Data {
         pais.setDemonimo("Channel Islander");
         pais.setPopulacao(100800);
         pais.setArea(116);
-        pais.setBandeira("https://restcountries.eu/data/jey.svg");
+        pais.setBandeira("jey");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3837,7 +3837,7 @@ public class Data {
         pais.setDemonimo("Jordanian");
         pais.setPopulacao(9531712);
         pais.setArea(89342);
-        pais.setBandeira("https://restcountries.eu/data/jor.svg");
+        pais.setBandeira("jor");
         pais.setGini(35.40);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -3870,7 +3870,7 @@ public class Data {
         pais.setDemonimo("Kazakhstani");
         pais.setPopulacao(17753200);
         pais.setArea(2724900);
-        pais.setBandeira("https://restcountries.eu/data/kaz.svg");
+        pais.setBandeira("kaz");
         pais.setGini(29.00);
         idiomas = new ArrayList<>();
         idiomas.add("Kazakh");
@@ -3907,7 +3907,7 @@ public class Data {
         pais.setDemonimo("Kenyan");
         pais.setPopulacao(47251000);
         pais.setArea(580367);
-        pais.setBandeira("https://restcountries.eu/data/ken.svg");
+        pais.setBandeira("ken");
         pais.setGini(47.70);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3942,7 +3942,7 @@ public class Data {
         pais.setDemonimo("I-Kiribati");
         pais.setPopulacao(113400);
         pais.setArea(811);
-        pais.setBandeira("https://restcountries.eu/data/kir.svg");
+        pais.setBandeira("kir");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -3974,7 +3974,7 @@ public class Data {
         pais.setDemonimo("Kuwaiti");
         pais.setPopulacao(4183658);
         pais.setArea(17818);
-        pais.setBandeira("https://restcountries.eu/data/kwt.svg");
+        pais.setBandeira("kwt");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -4005,7 +4005,7 @@ public class Data {
         pais.setDemonimo("Kirghiz");
         pais.setPopulacao(6047800);
         pais.setArea(199951);
-        pais.setBandeira("https://restcountries.eu/data/kgz.svg");
+        pais.setBandeira("kgz");
         pais.setGini(36.20);
         idiomas = new ArrayList<>();
         idiomas.add("Kyrgyz");
@@ -4039,7 +4039,7 @@ public class Data {
         pais.setDemonimo("Laotian");
         pais.setPopulacao(6492400);
         pais.setArea(236800);
-        pais.setBandeira("https://restcountries.eu/data/lao.svg");
+        pais.setBandeira("lao");
         pais.setGini(36.70);
         idiomas = new ArrayList<>();
         idiomas.add("Lao");
@@ -4073,7 +4073,7 @@ public class Data {
         pais.setDemonimo("Latvian");
         pais.setPopulacao(1961600);
         pais.setArea(64559);
-        pais.setBandeira("https://restcountries.eu/data/lva.svg");
+        pais.setBandeira("lva");
         pais.setGini(36.60);
         idiomas = new ArrayList<>();
         idiomas.add("Latvian");
@@ -4106,7 +4106,7 @@ public class Data {
         pais.setDemonimo("Lebanese");
         pais.setPopulacao(5988000);
         pais.setArea(10452);
-        pais.setBandeira("https://restcountries.eu/data/lbn.svg");
+        pais.setBandeira("lbn");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -4138,7 +4138,7 @@ public class Data {
         pais.setDemonimo("Mosotho");
         pais.setPopulacao(1894194);
         pais.setArea(30355);
-        pais.setBandeira("https://restcountries.eu/data/lso.svg");
+        pais.setBandeira("lso");
         pais.setGini(52.50);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -4170,7 +4170,7 @@ public class Data {
         pais.setDemonimo("Liberian");
         pais.setPopulacao(4615000);
         pais.setArea(111369);
-        pais.setBandeira("https://restcountries.eu/data/lbr.svg");
+        pais.setBandeira("lbr");
         pais.setGini(38.20);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -4202,7 +4202,7 @@ public class Data {
         pais.setDemonimo("Libyan");
         pais.setPopulacao(6385000);
         pais.setArea(1759540);
-        pais.setBandeira("https://restcountries.eu/data/lby.svg");
+        pais.setBandeira("lby");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -4237,7 +4237,7 @@ public class Data {
         pais.setDemonimo("Liechtensteiner");
         pais.setPopulacao(37623);
         pais.setArea(160);
-        pais.setBandeira("https://restcountries.eu/data/lie.svg");
+        pais.setBandeira("lie");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("German");
@@ -4268,7 +4268,7 @@ public class Data {
         pais.setDemonimo("Lithuanian");
         pais.setPopulacao(2872294);
         pais.setArea(65300);
-        pais.setBandeira("https://restcountries.eu/data/ltu.svg");
+        pais.setBandeira("ltu");
         pais.setGini(37.60);
         idiomas = new ArrayList<>();
         idiomas.add("Lithuanian");
@@ -4301,7 +4301,7 @@ public class Data {
         pais.setDemonimo("Luxembourger");
         pais.setPopulacao(576200);
         pais.setArea(2586);
-        pais.setBandeira("https://restcountries.eu/data/lux.svg");
+        pais.setBandeira("lux");
         pais.setGini(30.80);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -4335,7 +4335,7 @@ public class Data {
         pais.setDemonimo("Chinese");
         pais.setPopulacao(649100);
         pais.setArea(30);
-        pais.setBandeira("https://restcountries.eu/data/mac.svg");
+        pais.setBandeira("mac");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Chinese");
@@ -4366,7 +4366,7 @@ public class Data {
         pais.setDemonimo("Macedonian");
         pais.setPopulacao(2058539);
         pais.setArea(25713);
-        pais.setBandeira("https://restcountries.eu/data/mkd.svg");
+        pais.setBandeira("mkd");
         pais.setGini(43.20);
         idiomas = new ArrayList<>();
         idiomas.add("Macedonian");
@@ -4400,7 +4400,7 @@ public class Data {
         pais.setDemonimo("Malagasy");
         pais.setPopulacao(22434363);
         pais.setArea(587041);
-        pais.setBandeira("https://restcountries.eu/data/mdg.svg");
+        pais.setBandeira("mdg");
         pais.setGini(44.10);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -4430,7 +4430,7 @@ public class Data {
         pais.setDemonimo("Malawian");
         pais.setPopulacao(16832910);
         pais.setArea(118484);
-        pais.setBandeira("https://restcountries.eu/data/mwi.svg");
+        pais.setBandeira("mwi");
         pais.setGini(39.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -4463,7 +4463,7 @@ public class Data {
         pais.setDemonimo("Malaysian");
         pais.setPopulacao(31405416);
         pais.setArea(330803);
-        pais.setBandeira("https://restcountries.eu/data/mys.svg");
+        pais.setBandeira("mys");
         pais.setGini(46.20);
         idiomas = new ArrayList<>();
         idiomas.add("Malaysian");
@@ -4495,7 +4495,7 @@ public class Data {
         pais.setDemonimo("Maldivan");
         pais.setPopulacao(344023);
         pais.setArea(300);
-        pais.setBandeira("https://restcountries.eu/data/mdv.svg");
+        pais.setBandeira("mdv");
         pais.setGini(37.40);
         idiomas = new ArrayList<>();
         idiomas.add("Divehi");
@@ -4524,7 +4524,7 @@ public class Data {
         pais.setDemonimo("Malian");
         pais.setPopulacao(18135000);
         pais.setArea(1240192);
-        pais.setBandeira("https://restcountries.eu/data/mli.svg");
+        pais.setBandeira("mli");
         pais.setGini(33.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -4560,7 +4560,7 @@ public class Data {
         pais.setDemonimo("Maltese");
         pais.setPopulacao(425384);
         pais.setArea(316);
-        pais.setBandeira("https://restcountries.eu/data/mlt.svg");
+        pais.setBandeira("mlt");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Maltese");
@@ -4590,7 +4590,7 @@ public class Data {
         pais.setDemonimo("Marshallese");
         pais.setPopulacao(54880);
         pais.setArea(181);
-        pais.setBandeira("https://restcountries.eu/data/mhl.svg");
+        pais.setBandeira("mhl");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -4620,7 +4620,7 @@ public class Data {
         pais.setDemonimo("French");
         pais.setPopulacao(378243);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/mtq.svg");
+        pais.setBandeira("mtq");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -4649,7 +4649,7 @@ public class Data {
         pais.setDemonimo("Mauritanian");
         pais.setPopulacao(3718678);
         pais.setArea(1030700);
-        pais.setBandeira("https://restcountries.eu/data/mrt.svg");
+        pais.setBandeira("mrt");
         pais.setGini(40.50);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -4682,7 +4682,7 @@ public class Data {
         pais.setDemonimo("Mauritian");
         pais.setPopulacao(1262879);
         pais.setArea(2040);
-        pais.setBandeira("https://restcountries.eu/data/mus.svg");
+        pais.setBandeira("mus");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -4711,7 +4711,7 @@ public class Data {
         pais.setDemonimo("French");
         pais.setPopulacao(226915);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/myt.svg");
+        pais.setBandeira("myt");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -4740,7 +4740,7 @@ public class Data {
         pais.setDemonimo("Mexican");
         pais.setPopulacao(122273473);
         pais.setArea(1964375);
-        pais.setBandeira("https://restcountries.eu/data/mex.svg");
+        pais.setBandeira("mex");
         pais.setGini(47.00);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -4774,7 +4774,7 @@ public class Data {
         pais.setDemonimo("Micronesian");
         pais.setPopulacao(102800);
         pais.setArea(702);
-        pais.setBandeira("https://restcountries.eu/data/fsm.svg");
+        pais.setBandeira("fsm");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -4805,7 +4805,7 @@ public class Data {
         pais.setDemonimo("Moldovan");
         pais.setPopulacao(3553100);
         pais.setArea(33846);
-        pais.setBandeira("https://restcountries.eu/data/mda.svg");
+        pais.setBandeira("mda");
         pais.setGini(33.00);
         idiomas = new ArrayList<>();
         idiomas.add("Romanian");
@@ -4836,7 +4836,7 @@ public class Data {
         pais.setDemonimo("Monegasque");
         pais.setPopulacao(38400);
         pais.setArea(2);
-        pais.setBandeira("https://restcountries.eu/data/mco.svg");
+        pais.setBandeira("mco");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -4866,7 +4866,7 @@ public class Data {
         pais.setDemonimo("Mongolian");
         pais.setPopulacao(3093100);
         pais.setArea(1564110);
-        pais.setBandeira("https://restcountries.eu/data/mng.svg");
+        pais.setBandeira("mng");
         pais.setGini(36.50);
         idiomas = new ArrayList<>();
         idiomas.add("Mongolian");
@@ -4898,7 +4898,7 @@ public class Data {
         pais.setDemonimo("Montenegrin");
         pais.setPopulacao(621810);
         pais.setArea(13812);
-        pais.setBandeira("https://restcountries.eu/data/mne.svg");
+        pais.setBandeira("mne");
         pais.setGini(30.00);
         idiomas = new ArrayList<>();
         idiomas.add("Serbian");
@@ -4935,7 +4935,7 @@ public class Data {
         pais.setDemonimo("Montserratian");
         pais.setPopulacao(4922);
         pais.setArea(102);
-        pais.setBandeira("https://restcountries.eu/data/msr.svg");
+        pais.setBandeira("msr");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -4964,7 +4964,7 @@ public class Data {
         pais.setDemonimo("Moroccan");
         pais.setPopulacao(33337529);
         pais.setArea(446550);
-        pais.setBandeira("https://restcountries.eu/data/mar.svg");
+        pais.setBandeira("mar");
         pais.setGini(40.90);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -4996,7 +4996,7 @@ public class Data {
         pais.setDemonimo("Mozambican");
         pais.setPopulacao(26423700);
         pais.setArea(801590);
-        pais.setBandeira("https://restcountries.eu/data/moz.svg");
+        pais.setBandeira("moz");
         pais.setGini(45.70);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -5031,7 +5031,7 @@ public class Data {
         pais.setDemonimo("Burmese");
         pais.setPopulacao(51419420);
         pais.setArea(676578);
-        pais.setBandeira("https://restcountries.eu/data/mmr.svg");
+        pais.setBandeira("mmr");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Burmese");
@@ -5065,7 +5065,7 @@ public class Data {
         pais.setDemonimo("Namibian");
         pais.setPopulacao(2324388);
         pais.setArea(825615);
-        pais.setBandeira("https://restcountries.eu/data/nam.svg");
+        pais.setBandeira("nam");
         pais.setGini(63.90);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5100,7 +5100,7 @@ public class Data {
         pais.setDemonimo("Nauruan");
         pais.setPopulacao(10084);
         pais.setArea(21);
-        pais.setBandeira("https://restcountries.eu/data/nru.svg");
+        pais.setBandeira("nru");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5130,7 +5130,7 @@ public class Data {
         pais.setDemonimo("Nepalese");
         pais.setPopulacao(28431500);
         pais.setArea(147181);
-        pais.setBandeira("https://restcountries.eu/data/npl.svg");
+        pais.setBandeira("npl");
         pais.setGini(32.80);
         idiomas = new ArrayList<>();
         idiomas.add("Nepali");
@@ -5161,7 +5161,7 @@ public class Data {
         pais.setDemonimo("Dutch");
         pais.setPopulacao(17019800);
         pais.setArea(41850);
-        pais.setBandeira("https://restcountries.eu/data/nld.svg");
+        pais.setBandeira("nld");
         pais.setGini(30.90);
         idiomas = new ArrayList<>();
         idiomas.add("Dutch");
@@ -5193,7 +5193,7 @@ public class Data {
         pais.setDemonimo("New Caledonian");
         pais.setPopulacao(268767);
         pais.setArea(18575);
-        pais.setBandeira("https://restcountries.eu/data/ncl.svg");
+        pais.setBandeira("ncl");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -5222,7 +5222,7 @@ public class Data {
         pais.setDemonimo("New Zealander");
         pais.setPopulacao(4697854);
         pais.setArea(270467);
-        pais.setBandeira("https://restcountries.eu/data/nzl.svg");
+        pais.setBandeira("nzl");
         pais.setGini(36.20);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5256,7 +5256,7 @@ public class Data {
         pais.setDemonimo("Nicaraguan");
         pais.setPopulacao(6262703);
         pais.setArea(130373);
-        pais.setBandeira("https://restcountries.eu/data/nic.svg");
+        pais.setBandeira("nic");
         pais.setGini(40.50);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -5287,7 +5287,7 @@ public class Data {
         pais.setDemonimo("Nigerien");
         pais.setPopulacao(20715000);
         pais.setArea(1267000);
-        pais.setBandeira("https://restcountries.eu/data/ner.svg");
+        pais.setBandeira("ner");
         pais.setGini(34.60);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -5323,7 +5323,7 @@ public class Data {
         pais.setDemonimo("Nigerian");
         pais.setPopulacao(186988000);
         pais.setArea(923768);
-        pais.setBandeira("https://restcountries.eu/data/nga.svg");
+        pais.setBandeira("nga");
         pais.setGini(48.80);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5356,7 +5356,7 @@ public class Data {
         pais.setDemonimo("Niuean");
         pais.setPopulacao(1470);
         pais.setArea(260);
-        pais.setBandeira("https://restcountries.eu/data/niu.svg");
+        pais.setBandeira("niu");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5386,7 +5386,7 @@ public class Data {
         pais.setDemonimo("Norfolk Islander");
         pais.setPopulacao(2302);
         pais.setArea(36);
-        pais.setBandeira("https://restcountries.eu/data/nfk.svg");
+        pais.setBandeira("nfk");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5415,7 +5415,7 @@ public class Data {
         pais.setDemonimo("North Korean");
         pais.setPopulacao(25281000);
         pais.setArea(120538);
-        pais.setBandeira("https://restcountries.eu/data/prk.svg");
+        pais.setBandeira("prk");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Korean");
@@ -5447,7 +5447,7 @@ public class Data {
         pais.setDemonimo("American");
         pais.setPopulacao(56940);
         pais.setArea(464);
-        pais.setBandeira("https://restcountries.eu/data/mnp.svg");
+        pais.setBandeira("mnp");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5477,7 +5477,7 @@ public class Data {
         pais.setDemonimo("Norwegian");
         pais.setPopulacao(5223256);
         pais.setArea(323802);
-        pais.setBandeira("https://restcountries.eu/data/nor.svg");
+        pais.setBandeira("nor");
         pais.setGini(25.80);
         idiomas = new ArrayList<>();
         idiomas.add("Norwegian");
@@ -5511,7 +5511,7 @@ public class Data {
         pais.setDemonimo("Omani");
         pais.setPopulacao(4420133);
         pais.setArea(309500);
-        pais.setBandeira("https://restcountries.eu/data/omn.svg");
+        pais.setBandeira("omn");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -5543,7 +5543,7 @@ public class Data {
         pais.setDemonimo("Pakistani");
         pais.setPopulacao(194125062);
         pais.setArea(881912);
-        pais.setBandeira("https://restcountries.eu/data/pak.svg");
+        pais.setBandeira("pak");
         pais.setGini(30.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5577,7 +5577,7 @@ public class Data {
         pais.setDemonimo("Palauan");
         pais.setPopulacao(17950);
         pais.setArea(459);
-        pais.setBandeira("https://restcountries.eu/data/plw.svg");
+        pais.setBandeira("plw");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5607,7 +5607,7 @@ public class Data {
         pais.setDemonimo("Palestinian");
         pais.setPopulacao(4682467);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/pse.svg");
+        pais.setBandeira("pse");
         pais.setGini(35.50);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -5639,7 +5639,7 @@ public class Data {
         pais.setDemonimo("Panamanian");
         pais.setPopulacao(3814672);
         pais.setArea(75417);
-        pais.setBandeira("https://restcountries.eu/data/pan.svg");
+        pais.setBandeira("pan");
         pais.setGini(51.90);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -5671,7 +5671,7 @@ public class Data {
         pais.setDemonimo("Papua New Guinean");
         pais.setPopulacao(8083700);
         pais.setArea(462840);
-        pais.setBandeira("https://restcountries.eu/data/png.svg");
+        pais.setBandeira("png");
         pais.setGini(50.90);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5701,7 +5701,7 @@ public class Data {
         pais.setDemonimo("Paraguayan");
         pais.setPopulacao(6854536);
         pais.setArea(406752);
-        pais.setBandeira("https://restcountries.eu/data/pry.svg");
+        pais.setBandeira("pry");
         pais.setGini(52.40);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -5734,7 +5734,7 @@ public class Data {
         pais.setDemonimo("Peruvian");
         pais.setPopulacao(31488700);
         pais.setArea(1285216);
-        pais.setBandeira("https://restcountries.eu/data/per.svg");
+        pais.setBandeira("per");
         pais.setGini(48.10);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -5768,7 +5768,7 @@ public class Data {
         pais.setDemonimo("Filipino");
         pais.setPopulacao(103279800);
         pais.setArea(342353);
-        pais.setBandeira("https://restcountries.eu/data/phl.svg");
+        pais.setBandeira("phl");
         pais.setGini(43.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5797,7 +5797,7 @@ public class Data {
         pais.setDemonimo("Pitcairn Islander");
         pais.setPopulacao(56);
         pais.setArea(47);
-        pais.setBandeira("https://restcountries.eu/data/pcn.svg");
+        pais.setBandeira("pcn");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -5827,7 +5827,7 @@ public class Data {
         pais.setDemonimo("Polish");
         pais.setPopulacao(38437239);
         pais.setArea(312679);
-        pais.setBandeira("https://restcountries.eu/data/pol.svg");
+        pais.setBandeira("pol");
         pais.setGini(34.10);
         idiomas = new ArrayList<>();
         idiomas.add("Polish");
@@ -5863,7 +5863,7 @@ public class Data {
         pais.setDemonimo("Portuguese");
         pais.setPopulacao(10374822);
         pais.setArea(92090);
-        pais.setBandeira("https://restcountries.eu/data/prt.svg");
+        pais.setBandeira("prt");
         pais.setGini(38.50);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -5894,7 +5894,7 @@ public class Data {
         pais.setDemonimo("Puerto Rican");
         pais.setPopulacao(3474182);
         pais.setArea(8870);
-        pais.setBandeira("https://restcountries.eu/data/pri.svg");
+        pais.setBandeira("pri");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -5924,7 +5924,7 @@ public class Data {
         pais.setDemonimo("Qatari");
         pais.setPopulacao(2587564);
         pais.setArea(11586);
-        pais.setBandeira("https://restcountries.eu/data/qat.svg");
+        pais.setBandeira("qat");
         pais.setGini(41.10);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -5954,7 +5954,7 @@ public class Data {
         pais.setDemonimo("Kosovar");
         pais.setPopulacao(1733842);
         pais.setArea(10908);
-        pais.setBandeira("https://restcountries.eu/data/kos.svg");
+        pais.setBandeira("kos");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Albanian");
@@ -5988,7 +5988,7 @@ public class Data {
         pais.setDemonimo("French");
         pais.setPopulacao(840974);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/reu.svg");
+        pais.setBandeira("reu");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -6017,7 +6017,7 @@ public class Data {
         pais.setDemonimo("Romanian");
         pais.setPopulacao(19861408);
         pais.setArea(238391);
-        pais.setBandeira("https://restcountries.eu/data/rou.svg");
+        pais.setBandeira("rou");
         pais.setGini(30.00);
         idiomas = new ArrayList<>();
         idiomas.add("Romanian");
@@ -6051,7 +6051,7 @@ public class Data {
         pais.setDemonimo("Russian");
         pais.setPopulacao(146599183);
         pais.setArea(17124442);
-        pais.setBandeira("https://restcountries.eu/data/rus.svg");
+        pais.setBandeira("rus");
         pais.setGini(40.10);
         idiomas = new ArrayList<>();
         idiomas.add("Russian");
@@ -6102,7 +6102,7 @@ public class Data {
         pais.setDemonimo("Rwandan");
         pais.setPopulacao(11553188);
         pais.setArea(26338);
-        pais.setBandeira("https://restcountries.eu/data/rwa.svg");
+        pais.setBandeira("rwa");
         pais.setGini(50.80);
         idiomas = new ArrayList<>();
         idiomas.add("Kinyarwanda");
@@ -6137,7 +6137,7 @@ public class Data {
         pais.setDemonimo("Saint Barthélemy Islander");
         pais.setPopulacao(9417);
         pais.setArea(21);
-        pais.setBandeira("https://restcountries.eu/data/blm.svg");
+        pais.setBandeira("blm");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -6166,7 +6166,7 @@ public class Data {
         pais.setDemonimo("Saint Helenian");
         pais.setPopulacao(4255);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/shn.svg");
+        pais.setBandeira("shn");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6195,7 +6195,7 @@ public class Data {
         pais.setDemonimo("Kittian and Nevisian");
         pais.setPopulacao(46204);
         pais.setArea(261);
-        pais.setBandeira("https://restcountries.eu/data/kna.svg");
+        pais.setBandeira("kna");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6224,7 +6224,7 @@ public class Data {
         pais.setDemonimo("Saint Lucian");
         pais.setPopulacao(186000);
         pais.setArea(616);
-        pais.setBandeira("https://restcountries.eu/data/lca.svg");
+        pais.setBandeira("lca");
         pais.setGini(42.60);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6253,7 +6253,7 @@ public class Data {
         pais.setDemonimo("Saint Martin Islander");
         pais.setPopulacao(36979);
         pais.setArea(53);
-        pais.setBandeira("https://restcountries.eu/data/maf.svg");
+        pais.setBandeira("maf");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6288,7 +6288,7 @@ public class Data {
         pais.setDemonimo("French");
         pais.setPopulacao(6069);
         pais.setArea(242);
-        pais.setBandeira("https://restcountries.eu/data/spm.svg");
+        pais.setBandeira("spm");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -6317,7 +6317,7 @@ public class Data {
         pais.setDemonimo("Saint Vincentian");
         pais.setPopulacao(109991);
         pais.setArea(389);
-        pais.setBandeira("https://restcountries.eu/data/vct.svg");
+        pais.setBandeira("vct");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6346,7 +6346,7 @@ public class Data {
         pais.setDemonimo("Samoan");
         pais.setPopulacao(194899);
         pais.setArea(2842);
-        pais.setBandeira("https://restcountries.eu/data/wsm.svg");
+        pais.setBandeira("wsm");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Samoan");
@@ -6376,7 +6376,7 @@ public class Data {
         pais.setDemonimo("Sammarinese");
         pais.setPopulacao(33005);
         pais.setArea(61);
-        pais.setBandeira("https://restcountries.eu/data/smr.svg");
+        pais.setBandeira("smr");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Italian");
@@ -6406,7 +6406,7 @@ public class Data {
         pais.setDemonimo("Sao Tomean");
         pais.setPopulacao(187356);
         pais.setArea(964);
-        pais.setBandeira("https://restcountries.eu/data/stp.svg");
+        pais.setBandeira("stp");
         pais.setGini(50.80);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -6435,7 +6435,7 @@ public class Data {
         pais.setDemonimo("Saudi Arabian");
         pais.setPopulacao(32248200);
         pais.setArea(2149690);
-        pais.setBandeira("https://restcountries.eu/data/sau.svg");
+        pais.setBandeira("sau");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -6471,7 +6471,7 @@ public class Data {
         pais.setDemonimo("Senegalese");
         pais.setPopulacao(14799859);
         pais.setArea(196722);
-        pais.setBandeira("https://restcountries.eu/data/sen.svg");
+        pais.setBandeira("sen");
         pais.setGini(39.20);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -6505,7 +6505,7 @@ public class Data {
         pais.setDemonimo("Serbian");
         pais.setPopulacao(7076372);
         pais.setArea(88361);
-        pais.setBandeira("https://restcountries.eu/data/srb.svg");
+        pais.setBandeira("srb");
         pais.setGini(27.80);
         idiomas = new ArrayList<>();
         idiomas.add("Serbian");
@@ -6542,7 +6542,7 @@ public class Data {
         pais.setDemonimo("Seychellois");
         pais.setPopulacao(91400);
         pais.setArea(452);
-        pais.setBandeira("https://restcountries.eu/data/syc.svg");
+        pais.setBandeira("syc");
         pais.setGini(65.80);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -6572,7 +6572,7 @@ public class Data {
         pais.setDemonimo("Sierra Leonean");
         pais.setPopulacao(7075641);
         pais.setArea(71740);
-        pais.setBandeira("https://restcountries.eu/data/sle.svg");
+        pais.setBandeira("sle");
         pais.setGini(42.50);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6603,7 +6603,7 @@ public class Data {
         pais.setDemonimo("Singaporean");
         pais.setPopulacao(5535000);
         pais.setArea(710);
-        pais.setBandeira("https://restcountries.eu/data/sgp.svg");
+        pais.setBandeira("sgp");
         pais.setGini(48.10);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6636,7 +6636,7 @@ public class Data {
         pais.setDemonimo("Dutch");
         pais.setPopulacao(38247);
         pais.setArea(34);
-        pais.setBandeira("https://restcountries.eu/data/sxm.svg");
+        pais.setBandeira("sxm");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Dutch");
@@ -6667,7 +6667,7 @@ public class Data {
         pais.setDemonimo("Slovak");
         pais.setPopulacao(5426252);
         pais.setArea(49037);
-        pais.setBandeira("https://restcountries.eu/data/svk.svg");
+        pais.setBandeira("svk");
         pais.setGini(26.00);
         idiomas = new ArrayList<>();
         idiomas.add("Slovak");
@@ -6701,7 +6701,7 @@ public class Data {
         pais.setDemonimo("Slovene");
         pais.setPopulacao(2064188);
         pais.setArea(20273);
-        pais.setBandeira("https://restcountries.eu/data/svn.svg");
+        pais.setBandeira("svn");
         pais.setGini(31.20);
         idiomas = new ArrayList<>();
         idiomas.add("Slovene");
@@ -6734,7 +6734,7 @@ public class Data {
         pais.setDemonimo("Solomon Islander");
         pais.setPopulacao(642000);
         pais.setArea(28896);
-        pais.setBandeira("https://restcountries.eu/data/slb.svg");
+        pais.setBandeira("slb");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6763,7 +6763,7 @@ public class Data {
         pais.setDemonimo("Somali");
         pais.setPopulacao(11079000);
         pais.setArea(637657);
-        pais.setBandeira("https://restcountries.eu/data/som.svg");
+        pais.setBandeira("som");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Somali");
@@ -6796,7 +6796,7 @@ public class Data {
         pais.setDemonimo("South African");
         pais.setPopulacao(55653654);
         pais.setArea(1221037);
-        pais.setBandeira("https://restcountries.eu/data/zaf.svg");
+        pais.setBandeira("zaf");
         pais.setGini(63.10);
         idiomas = new ArrayList<>();
         idiomas.add("Afrikaans");
@@ -6840,7 +6840,7 @@ public class Data {
         pais.setDemonimo("South Georgia and the South Sandwich Islander");
         pais.setPopulacao(30);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/sgs.svg");
+        pais.setBandeira("sgs");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6869,7 +6869,7 @@ public class Data {
         pais.setDemonimo("South Korean");
         pais.setPopulacao(50801405);
         pais.setArea(100210);
-        pais.setBandeira("https://restcountries.eu/data/kor.svg");
+        pais.setBandeira("kor");
         pais.setGini(31.30);
         idiomas = new ArrayList<>();
         idiomas.add("Korean");
@@ -6899,7 +6899,7 @@ public class Data {
         pais.setDemonimo("South Sudanese");
         pais.setPopulacao(12131000);
         pais.setArea(619745);
-        pais.setBandeira("https://restcountries.eu/data/ssd.svg");
+        pais.setBandeira("ssd");
         pais.setGini(45.50);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -6934,7 +6934,7 @@ public class Data {
         pais.setDemonimo("Spanish");
         pais.setPopulacao(46438422);
         pais.setArea(505992);
-        pais.setBandeira("https://restcountries.eu/data/esp.svg");
+        pais.setBandeira("esp");
         pais.setGini(34.70);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -6969,7 +6969,7 @@ public class Data {
         pais.setDemonimo("Sri Lankan");
         pais.setPopulacao(20966000);
         pais.setArea(65610);
-        pais.setBandeira("https://restcountries.eu/data/lka.svg");
+        pais.setBandeira("lka");
         pais.setGini(40.30);
         idiomas = new ArrayList<>();
         idiomas.add("Sinhalese");
@@ -7000,7 +7000,7 @@ public class Data {
         pais.setDemonimo("Sudanese");
         pais.setPopulacao(39598700);
         pais.setArea(1886068);
-        pais.setBandeira("https://restcountries.eu/data/sdn.svg");
+        pais.setBandeira("sdn");
         pais.setGini(35.30);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -7037,7 +7037,7 @@ public class Data {
         pais.setDemonimo("Surinamer");
         pais.setPopulacao(541638);
         pais.setArea(163820);
-        pais.setBandeira("https://restcountries.eu/data/sur.svg");
+        pais.setBandeira("sur");
         pais.setGini(52.90);
         idiomas = new ArrayList<>();
         idiomas.add("Dutch");
@@ -7070,7 +7070,7 @@ public class Data {
         pais.setDemonimo("Norwegian");
         pais.setPopulacao(2562);
         pais.setArea(0);
-        pais.setBandeira("https://restcountries.eu/data/sjm.svg");
+        pais.setBandeira("sjm");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Norwegian");
@@ -7099,7 +7099,7 @@ public class Data {
         pais.setDemonimo("Swazi");
         pais.setPopulacao(1132657);
         pais.setArea(17364);
-        pais.setBandeira("https://restcountries.eu/data/swz.svg");
+        pais.setBandeira("swz");
         pais.setGini(51.50);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7131,7 +7131,7 @@ public class Data {
         pais.setDemonimo("Swedish");
         pais.setPopulacao(9894888);
         pais.setArea(450295);
-        pais.setBandeira("https://restcountries.eu/data/swe.svg");
+        pais.setBandeira("swe");
         pais.setGini(25.00);
         idiomas = new ArrayList<>();
         idiomas.add("Swedish");
@@ -7162,7 +7162,7 @@ public class Data {
         pais.setDemonimo("Swiss");
         pais.setPopulacao(8341600);
         pais.setArea(41284);
-        pais.setBandeira("https://restcountries.eu/data/che.svg");
+        pais.setBandeira("che");
         pais.setGini(33.70);
         idiomas = new ArrayList<>();
         idiomas.add("German");
@@ -7198,7 +7198,7 @@ public class Data {
         pais.setDemonimo("Syrian");
         pais.setPopulacao(18564000);
         pais.setArea(185180);
-        pais.setBandeira("https://restcountries.eu/data/syr.svg");
+        pais.setBandeira("syr");
         pais.setGini(35.80);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -7232,7 +7232,7 @@ public class Data {
         pais.setDemonimo("Taiwanese");
         pais.setPopulacao(23503349);
         pais.setArea(36193);
-        pais.setBandeira("https://restcountries.eu/data/twn.svg");
+        pais.setBandeira("twn");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Chinese");
@@ -7261,7 +7261,7 @@ public class Data {
         pais.setDemonimo("Tadzhik");
         pais.setPopulacao(8593600);
         pais.setArea(143100);
-        pais.setBandeira("https://restcountries.eu/data/tjk.svg");
+        pais.setBandeira("tjk");
         pais.setGini(30.80);
         idiomas = new ArrayList<>();
         idiomas.add("Tajik");
@@ -7295,7 +7295,7 @@ public class Data {
         pais.setDemonimo("Tanzanian");
         pais.setPopulacao(55155000);
         pais.setArea(945087);
-        pais.setBandeira("https://restcountries.eu/data/tza.svg");
+        pais.setBandeira("tza");
         pais.setGini(37.60);
         idiomas = new ArrayList<>();
         idiomas.add("Swahili");
@@ -7333,7 +7333,7 @@ public class Data {
         pais.setDemonimo("Thai");
         pais.setPopulacao(65327652);
         pais.setArea(513120);
-        pais.setBandeira("https://restcountries.eu/data/tha.svg");
+        pais.setBandeira("tha");
         pais.setGini(40.00);
         idiomas = new ArrayList<>();
         idiomas.add("Thai");
@@ -7366,7 +7366,7 @@ public class Data {
         pais.setDemonimo("East Timorese");
         pais.setPopulacao(1167242);
         pais.setArea(14874);
-        pais.setBandeira("https://restcountries.eu/data/tls.svg");
+        pais.setBandeira("tls");
         pais.setGini(31.90);
         idiomas = new ArrayList<>();
         idiomas.add("Portuguese");
@@ -7396,7 +7396,7 @@ public class Data {
         pais.setDemonimo("Togolese");
         pais.setPopulacao(7143000);
         pais.setArea(56785);
-        pais.setBandeira("https://restcountries.eu/data/tgo.svg");
+        pais.setBandeira("tgo");
         pais.setGini(34.40);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -7428,7 +7428,7 @@ public class Data {
         pais.setDemonimo("Tokelauan");
         pais.setPopulacao(1411);
         pais.setArea(12);
-        pais.setBandeira("https://restcountries.eu/data/tkl.svg");
+        pais.setBandeira("tkl");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7457,7 +7457,7 @@ public class Data {
         pais.setDemonimo("Tongan");
         pais.setPopulacao(103252);
         pais.setArea(747);
-        pais.setBandeira("https://restcountries.eu/data/ton.svg");
+        pais.setBandeira("ton");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7487,7 +7487,7 @@ public class Data {
         pais.setDemonimo("Trinidadian");
         pais.setPopulacao(1349667);
         pais.setArea(5130);
-        pais.setBandeira("https://restcountries.eu/data/tto.svg");
+        pais.setBandeira("tto");
         pais.setGini(40.30);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7516,7 +7516,7 @@ public class Data {
         pais.setDemonimo("Tunisian");
         pais.setPopulacao(11154400);
         pais.setArea(163610);
-        pais.setBandeira("https://restcountries.eu/data/tun.svg");
+        pais.setBandeira("tun");
         pais.setGini(41.40);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -7547,7 +7547,7 @@ public class Data {
         pais.setDemonimo("Turkish");
         pais.setPopulacao(78741053);
         pais.setArea(783562);
-        pais.setBandeira("https://restcountries.eu/data/tur.svg");
+        pais.setBandeira("tur");
         pais.setGini(39.00);
         idiomas = new ArrayList<>();
         idiomas.add("Turkish");
@@ -7584,7 +7584,7 @@ public class Data {
         pais.setDemonimo("Turkmen");
         pais.setPopulacao(4751120);
         pais.setArea(488100);
-        pais.setBandeira("https://restcountries.eu/data/tkm.svg");
+        pais.setBandeira("tkm");
         pais.setGini(40.80);
         idiomas = new ArrayList<>();
         idiomas.add("Turkmen");
@@ -7618,7 +7618,7 @@ public class Data {
         pais.setDemonimo("Turks and Caicos Islander");
         pais.setPopulacao(31458);
         pais.setArea(948);
-        pais.setBandeira("https://restcountries.eu/data/tca.svg");
+        pais.setBandeira("tca");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7647,7 +7647,7 @@ public class Data {
         pais.setDemonimo("Tuvaluan");
         pais.setPopulacao(10640);
         pais.setArea(26);
-        pais.setBandeira("https://restcountries.eu/data/tuv.svg");
+        pais.setBandeira("tuv");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7677,7 +7677,7 @@ public class Data {
         pais.setDemonimo("Ugandan");
         pais.setPopulacao(33860700);
         pais.setArea(241550);
-        pais.setBandeira("https://restcountries.eu/data/uga.svg");
+        pais.setBandeira("uga");
         pais.setGini(44.30);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7712,7 +7712,7 @@ public class Data {
         pais.setDemonimo("Ukrainian");
         pais.setPopulacao(42692393);
         pais.setArea(603700);
-        pais.setBandeira("https://restcountries.eu/data/ukr.svg");
+        pais.setBandeira("ukr");
         pais.setGini(26.40);
         idiomas = new ArrayList<>();
         idiomas.add("Ukrainian");
@@ -7748,7 +7748,7 @@ public class Data {
         pais.setDemonimo("Emirati");
         pais.setPopulacao(9856000);
         pais.setArea(83600);
-        pais.setBandeira("https://restcountries.eu/data/are.svg");
+        pais.setBandeira("are");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -7779,7 +7779,7 @@ public class Data {
         pais.setDemonimo("British");
         pais.setPopulacao(65110000);
         pais.setArea(242900);
-        pais.setBandeira("https://restcountries.eu/data/gbr.svg");
+        pais.setBandeira("gbr");
         pais.setGini(34.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7817,7 +7817,7 @@ public class Data {
         pais.setDemonimo("American");
         pais.setPopulacao(323947000);
         pais.setArea(9629091);
-        pais.setBandeira("https://restcountries.eu/data/usa.svg");
+        pais.setBandeira("usa");
         pais.setGini(48.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -7858,7 +7858,7 @@ public class Data {
         pais.setDemonimo("Uruguayan");
         pais.setPopulacao(3480222);
         pais.setArea(181034);
-        pais.setBandeira("https://restcountries.eu/data/ury.svg");
+        pais.setBandeira("ury");
         pais.setGini(39.70);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -7889,7 +7889,7 @@ public class Data {
         pais.setDemonimo("Uzbekistani");
         pais.setPopulacao(31576400);
         pais.setArea(447400);
-        pais.setBandeira("https://restcountries.eu/data/uzb.svg");
+        pais.setBandeira("uzb");
         pais.setGini(36.70);
         idiomas = new ArrayList<>();
         idiomas.add("Uzbek");
@@ -7924,7 +7924,7 @@ public class Data {
         pais.setDemonimo("Ni-Vanuatu");
         pais.setPopulacao(277500);
         pais.setArea(12189);
-        pais.setBandeira("https://restcountries.eu/data/vut.svg");
+        pais.setBandeira("vut");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Bislama");
@@ -7955,7 +7955,7 @@ public class Data {
         pais.setDemonimo("Venezuelan");
         pais.setPopulacao(31028700);
         pais.setArea(916445);
-        pais.setBandeira("https://restcountries.eu/data/ven.svg");
+        pais.setBandeira("ven");
         pais.setGini(44.80);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -7987,7 +7987,7 @@ public class Data {
         pais.setDemonimo("Vietnamese");
         pais.setPopulacao(92700000);
         pais.setArea(331212);
-        pais.setBandeira("https://restcountries.eu/data/vnm.svg");
+        pais.setBandeira("vnm");
         pais.setGini(35.60);
         idiomas = new ArrayList<>();
         idiomas.add("Vietnamese");
@@ -8019,7 +8019,7 @@ public class Data {
         pais.setDemonimo("Wallis and Futuna Islander");
         pais.setPopulacao(11750);
         pais.setArea(142);
-        pais.setBandeira("https://restcountries.eu/data/wlf.svg");
+        pais.setBandeira("wlf");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("French");
@@ -8048,7 +8048,7 @@ public class Data {
         pais.setDemonimo("Sahrawi");
         pais.setPopulacao(510713);
         pais.setArea(266000);
-        pais.setBandeira("https://restcountries.eu/data/esh.svg");
+        pais.setBandeira("esh");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("Spanish");
@@ -8081,7 +8081,7 @@ public class Data {
         pais.setDemonimo("Yemeni");
         pais.setPopulacao(27478000);
         pais.setArea(527968);
-        pais.setBandeira("https://restcountries.eu/data/yem.svg");
+        pais.setBandeira("yem");
         pais.setGini(37.70);
         idiomas = new ArrayList<>();
         idiomas.add("Arabic");
@@ -8112,7 +8112,7 @@ public class Data {
         pais.setDemonimo("Zambian");
         pais.setPopulacao(15933883);
         pais.setArea(752612);
-        pais.setBandeira("https://restcountries.eu/data/zmb.svg");
+        pais.setBandeira("zmb");
         pais.setGini(54.60);
         idiomas = new ArrayList<>();
         idiomas.add("English");
@@ -8149,7 +8149,7 @@ public class Data {
         pais.setDemonimo("Zimbabwean");
         pais.setPopulacao(14240168);
         pais.setArea(390757);
-        pais.setBandeira("https://restcountries.eu/data/zwe.svg");
+        pais.setBandeira("zwe");
         pais.setGini(0.00);
         idiomas = new ArrayList<>();
         idiomas.add("English");

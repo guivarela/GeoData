@@ -20,32 +20,37 @@ import deswebmob.usjt.br.geodata.entity.Pais;
 
 public class ListaPaisesActivity extends AppCompatActivity {
     public static final String PAIS = "deswebmob.usjt.br.geodata.pais";
-    Activity atividade;
+    Activity contexto;
     ArrayList<Pais> paises;
     ArrayList<String> nomes;
+    ListView listView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lista_paises);
-        atividade = this;
+        contexto = this;
         Intent intent = getIntent();
         String continente = intent.getStringExtra(MainActivity.CHAVE);
         paises = Data.listarPaises(continente);
         nomes = Data.listarNomes(paises);
 
-        ListView listView = findViewById(R.id.lista_paises);
-        ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, nomes);
+        listView = (ListView) findViewById(R.id.lista_paises);
+        PaisAdapter adapter = new PaisAdapter(this, paises);
         listView.setAdapter(adapter);
+        contexto = this;
 
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        listView.setOnItemClickListener(
+                new AdapterView.OnItemClickListener() {
 
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Intent intent = new Intent(atividade, DetalhePaisActivity.class);
-                intent.putExtra(PAIS, paises.get(position));
-                startActivity(intent);
-            }
-        });
+                    @Override
+                    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                        Pais pais = paises.get(position);
+                        Intent intent1 = new Intent(contexto , DetalhePaisActivity.class);
+                        intent1.putExtra(PAIS, pais);
+                        startActivity(intent1);
+                    }
+                }
+        );
     }
 }
